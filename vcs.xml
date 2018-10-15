@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/WFUCSC112ChoFall2018/project-3-part-1-browning-sierra-zhang-yixin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WFUCSC112ChoFall2018/project-4-part-1-mcginnis-l-nwakuche-c-vingi-m.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CLionProjects" />
