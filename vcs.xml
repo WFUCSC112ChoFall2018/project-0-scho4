@@ -358,6 +358,10 @@
           <option name="url" value="https://github.com/WFUCSC112ChoFall2018/project-7-part-1-sorted-linked-list-singh-ashwin-davis-jonathon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WFUCSC112ChoFall2018/project-7-part-1-sorted-vector-singh-ashwin-davis-jonathon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CLionProjects" />
